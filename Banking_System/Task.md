@@ -1,4 +1,4 @@
-Simple Banking System
+# Simple Banking System
 
 1. Define Account Class:
     - Create an Account class with attributes like account number, account holder name, and balance.
